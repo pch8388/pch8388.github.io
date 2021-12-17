@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://pch8388.github.io/sitemap.xml
+Host: https://pch8388.github.io
