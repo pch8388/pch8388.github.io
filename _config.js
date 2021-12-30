@@ -5,8 +5,7 @@ module.exports = {
   author: `SeungCheol`,                         // (* Required)
   language: 'ko-KR',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
   siteUrl: 'https://pch8388.github.io',                      // (* Required)
-    // ex.'https://junhobaik.github.io'
-    // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
+  search: true,
 
   /** Header */
   profileImageFileName: '', // include filename extension ex.'profile.jpg'
@@ -20,14 +19,11 @@ module.exports = {
   location: 'Korea',
   email: 'pch838811@gmail.com',
   website: 'https://pch8388.github.io',           // ex.'https://junhobaik.github.io'
-  //linkedin: '',                                                          // ex.'https://www.linkedin.com/in/junho-baik-16073a19ab'
-  //facebook: '',                                                          // ex.'https://www.facebook.com/zuck' or 'https://www.facebook.com/profile.php?id=000000000000000'
-  //instagram: '',                                                         // ex.'https://www.instagram.com/junhobaik'
   github: 'https://github.com/pch8388',                                                            // ex.'https://github.com/junhobaik'
 
   /** Post */
   enablePostOfContents: true,     // TableOfContents activation (Type of Value: Boolean. Not String)
-  disqusShortname: 'sc',            // comments (Disqus sort-name)
+  disqusShortname: 'pch8388-github-io',            // comments (Disqus sort-name)
   enableSocialShare: true,        // Social share icon activation (Type of Value: Boolean. Not String)
 
   /** Optional */
